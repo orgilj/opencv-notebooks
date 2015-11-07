@@ -1,4 +1,4 @@
-# OpenCV - г суулгах
+## Хэрхэн OpenCV - г суулгах вэ?
 
 Linux орчинд OpenCV - г дараах командын дарааллын тусламжтай суулгана.  
 1. OpenCV суулгана.  
@@ -11,4 +11,4 @@ Linux орчинд OpenCV - г дараах командын дарааллын 
 
 ![alt text](https://github.com/orgilj/opencv-notebooks/blob/master/images/Install.png "Picture of shell 1")
 
-### OpenCV - нь бүрэн гүйцэт суусан бол алдаа заахгүй.
+OpenCV - нь бүрэн гүйцэт суусан бол алдаа заахгүй.
