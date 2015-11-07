@@ -11,10 +11,4 @@ Linux орчинд OpenCV - г дараах командын дарааллын 
 
 ![alt text](https://github.com/orgilj/opencv-notebooks/blob/master/images/Install.png "Picture of shell 1")
 
-### OpenCV - нь бүрэн гүйцэт суусан бол алдаа заахгүйгээр Python програмд дуудагдана.
-
-
-
-
-
-   Бэлтгэсэн: Ж.Оргил <mailto:orgil@sict.edu.mn>
+### OpenCV - нь бүрэн гүйцэт суусан бол алдаа заахгүй.
