@@ -1,17 +1,22 @@
-# OpenCV Example
+# OpenCV хичээл 1:
 
-* **Bold**
-* 2
-* 3
+## OpenCV - г суулгах
+
+Linux орчинд OpenCV - г дараах командын дарааллын тусламжтай суулгана.
+1. OpenCV суулгана.  
+`sudo apt-get install python2.7-opencv`
+
+2. Суулгаж дууссаны дараа командын мөрөнд дараах командыг бичнэ.  
+`python`
+3. Python командын мөр гарч ирхэд OpenCV library - г дуудна.  
+`import cv2`
+
+![alt text](https://github.com/orgilj/opencv-notebooks/blob/master/Image1.png "Picture of shell 1")
+
+### OpenCV - нь бүрэн гүйцэт суусан бол алдаа заахгүйгээр Python програмд дуудагдана.
 
 
-1. 1
-2. 2
-3. `print f`
 
 
-```python
-print 12+2
-for i in range(0,10):
-  print i
-```
+
+   Бэлтгэсэн: Ж.Оргил <mailto:orgil@sict.edu.mn>
