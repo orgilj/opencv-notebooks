@@ -11,7 +11,7 @@ Linux орчинд OpenCV - г дараах командын дарааллын 
 3. Python командын мөр гарч ирхэд OpenCV library - г дуудна.  
 `import cv2`
 
-![alt text](https://github.com/orgilj/opencv-notebooks/blob/master/Image1.png "Picture of shell 1")
+![alt text](https://github.com/orgilj/opencv-notebooks/blob/master/images/install_test.img.png "Picture of shell 1")
 
 ### OpenCV - нь бүрэн гүйцэт суусан бол алдаа заахгүйгээр Python програмд дуудагдана.
 
