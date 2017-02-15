@@ -10,5 +10,7 @@ Linux орчинд OpenCV - г дараах командын дарааллын 
 `import cv2`
 
 ![alt text](https://github.com/orgilj/opencv-notebooks/blob/master/images/Install.png  "Picture of shell 1")
-
+<div style="text-align: center">
+![alt text](https://github.com/orgilj/Kalman-filter-mongolia/blob/master/images/gauss_0.png)
+</div>
 OpenCV - нь бүрэн гүйцэт суусан бол алдаа заахгүй.
